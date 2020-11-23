@@ -11,7 +11,7 @@ Here are the robots I worked on during my studies on several projects:
 - Turtlebot 3 waffle
 - Tiago
 
-*ABB ![ABB Robot](/images/ABB.jpg)
+*ABB ![ABB Robot](Portfolio_v4.pdf)
 
 Skills developed:
 - ROS (Gazebo, RVIZ, MoveIT!)
