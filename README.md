@@ -1,7 +1,5 @@
-## Thomas PEYRUCAIN
-## Mechatronics/ Robotics Engineer
-
-You can see here the project I did in a team or by myself
+# Thomas PEYRUCAIN
+# Mechatronics/ Robotics Engineer
 
 # Projects
 
