@@ -1,36 +1,21 @@
-## Welcome to Thomas PEYRUCAIN portfolio
+## Thomas PEYRUCAIN
+## Mechatronics/ Robotics Engineer
 
 You can see here the project I did in a team or by myself
 
-# Robot
+# Projects
 
-Here are the robots I worked on during my studies on several projects:
-- ABB Robots
-- NAO
-- UR5
-- Turtlebot 3 waffle
-- Tiago
+![Slide3](/images/Slide3.PNG)
+![Slide4](/images/Slide4.PNG)
+![Slide5](/images/Slide5.PNG)
+![Slide6](/images/Slide6.PNG)
+![Slide7](/images/Slide7.PNG)
+![Slide8](/images/Slide8.PNG)
+![Slide9](/images/Slide9.PNG)
 
-*ABB ![ABB Robot](Portfolio_v4.pdf)
+# Hobbies
 
-Skills developed:
-- ROS (Gazebo, RVIZ, MoveIT!)
-- Path planning
-- ABB Robot studio
-- Terminals on the robots
-
-# Rubik’s solver
-
-Aim of the project:
-Solve a Rubik's cube based on the webcam reading of the faces
-
-![ABB Robot](/images/Rubik.png)
-
-Achievement:
-Solve the Rubik's cube in less than 10 seconds
-
-Skills developed:
-- Teamwork
-- Electronics (Eagle)
-- LabVIEW (LabVIEW RIO card)
-- Mechatronics
+![Slide11](/images/Slide11.PNG)
+![Slide12](/images/Slide12.PNG)
+![Slide13](/images/Slide13.PNG)
+![Slide14](/images/Slide14.PNG)
